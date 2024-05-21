@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bea2003triz
+- 👋 Hi, I’m Beatriz 
 - 👀 I’m interested in games in general and music
 - 🌱 I’m currently learning full stack development 
 - 💞️ I’m looking to collaborate on beginners projects 
